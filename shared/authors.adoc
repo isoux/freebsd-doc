@@ -10,7 +10,7 @@
      IMPORTANT:  If you delete names from this file you *must* ensure that
                  all references to them have been removed from the handbook's
                  translations.  If they haven't then you *will* break the
-                 builds for the other languages, and we will poke fun of you
+                 builds for the other languages, and we will poke fun at you
                  in public.
  $FreeBSD$
 ////
@@ -1236,6 +1236,10 @@
 :gpalmer-email: gpalmer@FreeBSD.org
 :gpalmer: {gpalmer-name} <{gpalmer-email}>
 
+:grahamperrin-name: Graham Perrin
+:grahamperrin-email: grahamperrin@FreeBSD.org
+:grahamperrin: {grahamperrin-name} <{grahamperrin-email}>
+
 :graichen-name: Thomas Graichen
 :graichen-email: graichen@FreeBSD.org
 :graichen: {graichen-name} <{graichen-email}>
@@ -1779,6 +1783,10 @@
 :kaktus-name: Pawel Biernacki
 :kaktus-email: kaktus@FreeBSD.org
 :kaktus: {kaktus-name} <{kaktus-email}>
+
+:kd-name: Kornel Dulęba
+:kd-email: kd@FreeBSD.org
+:kd: {kd-name} <{kd-email}>
 
 :ken-name: Kenneth D. Merry
 :ken-email: ken@FreeBSD.org
@@ -2531,6 +2539,10 @@
 :patrick-name: Patrick S. Gardella
 :patrick-email: patrick@FreeBSD.org
 :patrick: {patrick-name} <{patrick-email}>
+
+:pauamma-name: Pau Amma
+:pauamma-email: pauamma@FreeBSD.org
+:pauamma: {pauamma-name} <{pauamma-email}>
 
 :paul-name: Paul Richards
 :paul-email: paul@FreeBSD.org
