@@ -928,6 +928,10 @@
 :ds-email: ds@FreeBSD.org
 :ds: {ds-name} <{ds-email}>
 
+:dsl-name: Dmitry Salychev
+:dsl-email: dsl@FreeBSD.org
+:dsl: {dsl-name} <{dsl-email}>
+
 :dt-name: Dmitrij Tejblum
 :dt-email: dt@FreeBSD.org
 :dt: {dt-name} <{dt-email}>
@@ -3628,6 +3632,10 @@
 :zi-email: zi@FreeBSD.org
 :zi: {zi-name} <{zi-email}>
 
+:zirias-name: Felix Palmen
+:zirias-email: zirias@FreeBSD.org
+:zirias: {zirias-name} <{zirias-email}>
+
 :zleslie-name: Zach Leslie
 :zleslie-email: zleslie@FreeBSD.org
 :zleslie: {zleslie-name} <{zleslie-email}>
@@ -3663,8 +3671,11 @@
 // FreeBSD Freenode IRC Liasons
 :irc-email: irc@FreeBSD.org
 
+// FreeBSD Package Management Team
+:pkgmgr-members: {antoine}, {bdrewery}
+
 // FreeBSD Ports Manager Team
-:portmgr-members: {mat}, {antoine}, {bapt}, {bdrewery}, {rene}, {swills}, {tcberner}
+:portmgr-members: {mat}, {bapt}, {pizzamig}, {rene}, {swills}, {tcberner}
 
 // FreeBSD Release Engineering Teams
 :re: re@FreeBSD.org

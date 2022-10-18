@@ -359,6 +359,41 @@ Here is a convenient list of `__FreeBSD_version` values as defined in https://cg
 |gitref:8cff8e6e13a6d3ccff40fc0d8d97f5aef22a8f4d[repository="src",length=12]
 |June 29, 2022
 |14.0-CURRENT after multiple LinuxKPI changes required by drm-kmod.
+
+|1400064
+|gitref:ddd9004e7a5dbf02c34ef0effcef90f7d5df357d[repository="src",length=12]
+|July 18, 2022
+|14.0-CURRENT after the removal of OBJT_DEFAULT.
+
+|1400065
+|gitref:b273f93657cf0e6f2c6ee4d0f40a43656233c6d0[repository="src",length=12]
+|August 8, 2022
+|14.0-CURRENT after multiple LinuxKPI changes required by drm-kmod.
+
+|1400066
+|gitref:ff7812ee7d444b738a454064f9639c3feb5743e8[repository="src",length=12]
+|August 18, 2022
+|14.0-CURRENT after multiple LinuxKPI changes required by drm-kmod.
+
+|1400069
+|gitref:f95c0bc89ea4fcde04b0990d57e842ef387ea896[repository="src",length=12]
+|September 22, 2022
+|14.0-CURRENT after multiple LinuxKPI changes.
+
+|1400070
+|gitref:6bddde307e21eba297ac3f3e534b4cf3be81dfe2[repository="src",length=12]
+|September 22, 2022
+|14.0-CURRENT after KPI changes to pmap_unmapdev() and kmem_*().
+
+|1400071
+|gitref:d3f96f661050e9bd21fe29931992a8b9e67ff189[repository="src",length=12]
+|September 26, 2022
+|14.0-CURRENT after KPI changes that sysctl OIDs lists converted to RB trees.
+
+|1400072
+|gitref:8a96874eeeee5195b0b0952b77227bef6a26d1a6[repository="src",length=12]
+|September 22, 2022
+|14.0-CURRENT after qsort_r prototype modified to match POSIX.
 |===
 
 ////
@@ -1261,6 +1296,11 @@ Template:
 |gitref:8e6cfc632cf6f9fc906df9d825649443939b55c6[repository="src",length=12]
 |July 13, 2022
 |13.1-STABLE after after adding <crypto/chacha20_poly1305.h> and <crypto/curve25519.h>.
+
+|1301507
+|gitref:9cbba5950123f3afedcc5f24c43956e7a26f22f4[repository="src",length=12]
+|June 21, 2022
+|13.1-STABLE after various merges to LinuxKPI.
 |===
 
 ////
